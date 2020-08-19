@@ -2,34 +2,14 @@ Welcome:
     Read the syllabus to get started: /syllabus
     Install python: /python/en/installing
 
-Algorithms (level 1):
+Algorithms:
     - algorithms
     - plotting
 
-Number theory (level 1):
-    - numbers
-    - plotting
-
-Numerical integration (level 2):
+Numerical integration:
     - integrals
 
-Text processing (level 2):
-    - text
-
-Monopoly (level 3):
+Monopoly:
     - animation
     - monopoly-en
 
-Physics of movement (level 3):
-    - animation
-    - movement
-
-Population dynamics (level 3):
-    - animation
-    - populations
-
-Big data (level 4):
-    - bigdata-en
-
-Statistics (level 4):
-    - statistics
