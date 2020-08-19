@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/integrals.git
+	branch = main
+	commit = 18cd01833a6d3f94a8555aba25000da134716c44
+	parent = aca091be2432e39e50348ae2d8ec07d27d7087e8
+	method = merge
+	cmdver = 0.4.1
