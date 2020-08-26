@@ -1,4 +1,4 @@
-name: algoritmen
+name: algoritmen-submit
 files:
     required:
         - water.py
