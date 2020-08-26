@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/sp1-python.git
 	branch = main
-	commit = 4741e0ac129a2d6ec71854f256493729e911cde0
-	parent = f1ec87bae1015613a064ee4ebb772b9e00e37054
+	commit = 4f4201b826cb701a41689b44411dbf8c0a02b9cb
+	parent = e9a3631df6a89170e29dfb7232d533b12fe320d4
 	method = merge
 	cmdver = 0.4.1
