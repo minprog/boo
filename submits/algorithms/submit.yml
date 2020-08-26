@@ -2,8 +2,9 @@ name: algoritmen-sub
 files:
     required:
         - water.py
-        - pyramid.py
+        - piramide.py
         - greedy.py
+        - hello.py
         - plot.py
 check:
     tool: checkpy
