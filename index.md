@@ -3,6 +3,7 @@
 ## Studiewijzer INF4ALL<br><small>Herfst 2020</small>
 
 > **Let op!** Deze studiewijzer is indicatief. Na de eerste bijeenkomst worden details aangepast en aangevuld.
+{:.bg-warning}
 
 Dit is een inleiding in het programmeren in Python met behulp van objecten en classes. Toepassingen staan centraal: eerst met casussen uit de wetenschap, waar Python steeds vaker gebruikt wordt, en later met behulp van een aantal games die zich goed lenen om te oefenen met objectgeoriënteerd programmeren. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk beschikbaar op de momenten dat het pittig wordt. Naast het werken aan problemen oplossen is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
 
