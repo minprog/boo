@@ -68,7 +68,6 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 - vragen over wat er in de opdracht bedoeld wordt
 - technische vragen over programmeren en bugs
-- vragen over de oefeningen in het basisboek
 - medestudenten en assistenten denken mee
 
 **Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
@@ -91,8 +90,6 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 - Neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem. Met een frisse blik kom je dan toch weer verder.
 
 - Ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat.
-
-- Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
 
@@ -150,11 +147,6 @@ Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor
 ### Werkgroepen
 
 Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
-
-### Basisboek (TODO)
-
-Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Je studeert in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. Vragen over de oefeningen stel je via **Ed**. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
-
 
 ## Samenwerken
 
