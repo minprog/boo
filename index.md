@@ -38,13 +38,6 @@ Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voo
 Tijdens de mondelinge eindtoets moet je laten zien dat je voldoende begrip hebt opgebouwd van de verschillende programmeerconstructies die je hebt gebruikt bij het maken van de opdrachten.
 
 
-## Docent
-
-Je **mentor** is een student die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
-
-Met je mentor heb je elke week een **werkgroep** waar alle teamleden (met video) aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met je team. Als je een probleem ziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
-
-
 ## Werkwijze
 
 In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt in fases aan de opdrachten:
