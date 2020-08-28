@@ -42,10 +42,10 @@ Tijdens de mondelinge eindtoets moet je laten zien dat je voldoende begrip hebt 
 
 In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt in fases aan de opdrachten:
 
-1. ontwerp een oplossing voor een opdracht, samen met een partner uit je team
-2. implementeer deze oplossing, zonder partner, maar met allerlei mogelijkheden om hulp te krijgen
-3. review met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
-4. ontvang je beoordeling en schrijf een reflectie
+1. **ontwerp** een oplossing voor een opdracht, samen met een partner uit je team
+2. **implementeer** deze oplossing, zonder partner, maar met allerlei mogelijkheden om hulp te krijgen
+3. **review** met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
+4. ontvang je beoordeling en schrijf een **reflectie**
 
 Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt zelfs in een vast schema gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
