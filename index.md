@@ -96,6 +96,16 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 </details>
 
 
+## Bijeenkomsten
+
+Tijdens de bijeenkomsten staan de volgende onderdelen op het programma:
+
+- Kennismaking
+- Terugblik op de opdrachten
+- Onderlinge code reviews
+- Aanwijzingen voor de cursus
+
+
 ## Deadlines
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `checkpy` of `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
