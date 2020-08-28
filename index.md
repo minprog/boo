@@ -14,8 +14,9 @@ De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle [oefeningen](#basisboek) doet (TODO)
-3. alle [werkgroepen](#werkgroepen) bijwoont
+2. alle vrijdagse bijeenkomsten bijwoont
+3. de reflectieve take-hometoets doet
+4. de mondelinge eindtoets doet
 
 
 ## Eindcijfer
@@ -23,16 +24,18 @@ Bij dit vak wordt van je verwacht dat je:
 Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdrachten. De opdrachten zijn verdeeld over modules, die als volgt meewegen:
 
 | onderdeel | telt mee |  
-| --------- | -------- |  
-| Module 0  | 1/7 deel
-| Module 1  | 1/7 deel
-| Module 2  | 1/7 deel
-| Module 3  | 1/7 deel
-| Module 4  | 1/7 deel
-| Module 5  | 1/7 deel
-| Module 6  | 1/7 deel
+| --------- | -------- |
+| Module 0  | 1/7 deel |
+| Module 1  | 1/7 deel |
+| Module 2  | 1/7 deel |
+| Module 3  | 1/7 deel |
+| Module 4  | 1/7 deel |
+| Module 5  | 1/7 deel |
+| Module 6  | 1/7 deel |
 
-Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>).
+Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
+
+Tijdens de mondelinge eindtoets moet je laten zien dat je voldoende begrip hebt opgebouwd van de verschillende programmeerconstructies die je hebt gebruikt bij het maken van de opdrachten.
 
 
 ## Docent
@@ -51,7 +54,7 @@ In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programme
 3. review met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
 4. ontvang je beoordeling en schrijf een reflectie
 
-Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt zelfs in een vast schema gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt zelfs in een vast schema gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 
 ## Vragen stellen
@@ -97,15 +100,15 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `checkpy` of `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
-| module   | deadline oplossing | deadline verbeterd |  
-| -------- | ------------------ | ------------------ |
-| Module 0 | vr  4 sep  20:59   | wo  9 sep  20:59   |  
-| Module 1 | vr 18 sep  20:59   | wo 23 sep  20:59   |  
-| Module 2 | vr  2 okt  20:59   | wo  7 okt  20:59   |  
-| Module 3 | vr 16 okt  20:59   | wo 21 okt  20:59   |  
-| Module 4 | vr  6 nov  20:59   | wo 11 nov  20:59   |  
-| Module 5 | vr 20 nov  20:59   | wo 25 nov  20:59   |  
-| Module 6 | vr  4 dec  20:59   | wo  9 dec  20:59   |  
+| module   | naam       | deadline oplossing | deadline verbeterd |  
+| -------- | ---------- | ------------------ | ------------------ |
+| Module 0 | Algoritmen | do 10 sep  12:59   | ma 14 sep  20:59   |  
+| Module 1 |            | do 24 sep  12:59   | ma 28 sep  20:59   |  
+| Module 2 |            | do  8 okt  12:59   | ma 12 okt  20:59   |  
+| Module 3 |            | do 22 okt  12:59   | ma 26 okt  20:59   |  
+| Module 4 |            | do  5 nov  12:59   | ma  9 nov  20:59   |  
+| Module 5 |            | do 19 nov  12:59   | ma 23 nov  20:59   |  
+| Module 6 |            | do  3 dec  12:59   | ma  7 dec  20:59   |  
 
 Daarnaast is er een take-hometoets in week 8 en een mondelinge review en afronding in week 16.
 
@@ -141,12 +144,6 @@ Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
-
-## Onderdelen
-
-### Werkgroepen
-
-Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
 ## Samenwerken
 
@@ -260,5 +257,3 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 </details>
 
 <!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
-
-
