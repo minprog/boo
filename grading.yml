@@ -1,5 +1,5 @@
 grades:
-    algorithms:
+    algoritmen-sub:
         subgrades:
             correctness: integer
             points: integer
@@ -15,4 +15,4 @@ calculation:
 mods:
     show_progress: true
     submits:
-        algorithms: 1
+        algoritmen-sub: 1
