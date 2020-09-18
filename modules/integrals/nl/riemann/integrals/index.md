@@ -18,8 +18,8 @@ Het programma moet zowel de benadering van de integraal printen als de kwadratis
 	- De functie `riemann()` moet zes argumenten accepteren:
 
 		- `a`, `b` en `c`, de parameters van de kwadratische functie
-		- `a`, het begin van het integratiegebied
-		- `b`, het einde van het integratiegebied
+		- `d`, het begin van het integratiegebied
+		- `e`, het einde van het integratiegebied
 		- `n`, de hoeveelhier rechthoeken die we gebruiken om de integraal te benaderen.
 
 	- De functie `riemann()` moet de wiskundige functie plotten
