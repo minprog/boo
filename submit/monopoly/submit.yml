@@ -1,0 +1,13 @@
+name: monopoly-sub
+files:
+    required:
+        - spiraal.py
+        - student.py
+        - monopoly.py
+        - monopoly_realistisch.py
+        - appel.py
+        - basejump.py
+check:
+    tool: checkpy
+    repo: uva/progns
+    args: -m monopoly
