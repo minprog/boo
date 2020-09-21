@@ -67,7 +67,7 @@ Om zowel `matplotlib` en `checkpy` te downloaden voer je in de terminal één vo
     pip install matplotlib
     echo "backend : TkAgg" >> ~/.local/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc
     pip install checkpy
-    checkpy -d uva/progns
+    checkpy -d uva/progns2
 
 Het kan best eventjes duren per commando, en er zal aardig wat tekst over je scherm ratelen (behalve bij het commando startend met `echo`). Mocht er weinig tekst staan, speur dan naar een eventuele foutmelding en vraag eventueel om hulp!
 

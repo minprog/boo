@@ -48,7 +48,7 @@ Om jou te helpen controleren of wat je programmeert ook daadwerkelijk in overeen
 
 Dit kan even duren, en je zult wat tekst over je scherm zien gaan. Daarna is checkpy geïnstalleerd. Behalve checkpy hebben we ook tests nodig om de opdrachten die jij zometeen gaat maken te testen. Deze tests kun je downloaden door het volgende commando in de terminal te voeren:
 
-	checkpy -d uva/progns
+	checkpy -d uva/progns2
 
 Om te testen of alles werkt, kun je `hello.py` testen. Als je die nog niet gemaakt hebt, doe dat dan volgens het introductiefilmpje hierboven. Voer dan het volgende commando in de terminal uit:
 

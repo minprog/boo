@@ -9,5 +9,5 @@ files:
         - basejump.py
 check:
     tool: checkpy
-    repo: uva/progns
+    repo: uva/progns2
     args: -m monopoly
