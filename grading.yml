@@ -7,6 +7,22 @@ grades:
             correctness: correctness_score
         calculation: correctness == 14 && (points / 6.0 * 9 + 1).round(1) || 0
         hide_calculated: true
+    integreren-sub:
+        subgrades:
+            correctness: integer
+            points: integer
+        automatic:
+            correctness: correctness_score
+        calculation: correctness == 14 && (points / 6.0 * 9 + 1).round(1) || 0
+        hide_calculated: true
+    monopoly-sub:
+        subgrades:
+            correctness: integer
+            points: integer
+        automatic:
+            correctness: correctness_score
+        calculation: correctness == 14 && (points / 6.0 * 9 + 1).round(1) || 0
+        hide_calculated: true
 
 calculation:
     final:
@@ -16,3 +32,6 @@ mods:
     show_progress: true
     submits:
         algoritmen-sub: 1
+        integreren-sub: 1
+        monopoly-sub: 1
+
