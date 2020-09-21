@@ -8,20 +8,20 @@ Algoritmen:
     - grafieken
     - algoritmen-submit
   Submit:
-    Inleveren van de opdrachten: /submit/getaltheorie
+    Inleveren van de opdrachten: /submits/algorithms
 
 Numeriek integreren:
   "":
     - integreren
   Submit:
-    Inleveren van de opdrachten: /submit/integreren
+    Inleveren van de opdrachten: /submits/integreren
 
 Monopoly:
   "":
     - animaties
     - monopoly-nl
   Submit:
-    Inleveren van de opdrachten: /submit/monopoly
+    Inleveren van de opdrachten: /submits/monopoly
 
 # Complexity:
 #     - complexity
