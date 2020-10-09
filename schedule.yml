@@ -21,8 +21,12 @@ Monopoly:
   Submit:
     Inleveren van de opdrachten: /submit/monopoly
 
-# Complexity:
-#     - complexity
+Complexity:
+  "":
+    - complexity
+  Submit:
+    Inleveren van de opdrachten: /submit/complexity
+
 #
 # Hangman:
 #     - hangman
