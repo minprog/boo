@@ -21,7 +21,7 @@ grades:
             points: integer
         automatic:
             correctness: correctness_score
-        calculation: correctness == 14 && (points / 6.0 * 9 + 1).round(1) || 0
+        calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
     complexity-sub:
         subgrades:
