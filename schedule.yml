@@ -27,9 +27,14 @@ Complexity:
   Submit:
     Inleveren van de opdrachten: /submit/complexity
 
-#
-# Hangman:
-#     - hangman
-#
-# Adventure:
-#     - adventure
+Hangman:
+  "":
+    - hangman
+  # Submit:
+  #   Inleveren van de opdrachten: /submit/hangman
+
+Adventure:
+  "":
+    - adventure
+  # Submit:
+  #   Inleveren van de opdrachten: /submit/adventure
