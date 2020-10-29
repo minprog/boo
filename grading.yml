@@ -28,10 +28,31 @@ grades:
             points: integer
         calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
+    queue:
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_subgrades: true
+    cards:
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_subgrades: true
+    hangman-less:
+        subgrades:
+            correctness: integer
+            points: integer
+        automatic:
+            correctness: correctness_score
+        calculation: (points / 6.0 * 9 + 1).round(1)
+        hide_calculated: true
 
 calculation:
     final:
         mods: 100
+        oefeningen: 0
 
 mods:
     show_progress: true
@@ -40,3 +61,10 @@ mods:
         integreren-sub: 1
         monopoly-sub: 1
         complexity-sub: 1
+        hangman-less: 1
+
+oefeningen:
+    show_progress: true
+    submits:
+        queue: 1
+        cards: 1
