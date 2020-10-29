@@ -48,6 +48,12 @@ grades:
             correctness: correctness_score
         calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
+    takehome:
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_subgrades: true        
 
 calculation:
     final:
@@ -68,3 +74,8 @@ oefeningen:
     submits:
         queue: 1
         cards: 1
+
+tentamens:
+    show_progress: true
+    submits:
+        takehome: 1
