@@ -26,8 +26,6 @@ Het uiteindelijke doel van de opdracht is het oefenen met objectgeoriënteerd on
 
 Allereerst is het belangrijk om te zorgen dat je weer even goed in Python zit en vooral het objectgeoriënteerd programmeren.
 
-- Kijk voor een terugblik op Python nog eens het [videocollege](/lectures/python-david) van dit jaar.
-
 - Kijk voor een terugblik op object-georiënteerd programmeren nog een keer het [korte college](/problems/objects/lecture).
 
 - Lees vervolgens zorgvuldig over het gebruik van "inheritance" bij het ontwerpen van klassen: [Think Python hoofdstuk 18](http://greenteapress.com/thinkpython/html/thinkpython019.html).
