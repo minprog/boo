@@ -38,3 +38,6 @@ Adventure:
     - adventure
   # Submit:
   #   Inleveren van de opdrachten: /submit/adventure
+
+Diagrammer:
+    - adventure
