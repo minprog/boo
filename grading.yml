@@ -61,7 +61,12 @@ grades:
         subgrades:
             done: boolean
         calculation: done
-        hide_subgrades: true        
+        hide_subgrades: true
+    diagrammer-models:
+        type: pass
+    diagrammer-serializer:
+        type: pass
+
 
 calculation:
     final:
@@ -77,6 +82,8 @@ mods:
         monopoly-sub: 1
         complexity-sub: 1
         hangman-less: 1
+        adventure-less: 1
+        # diagrammer: 1
 
 oefeningen:
     show_progress: true
