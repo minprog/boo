@@ -48,6 +48,14 @@ grades:
             correctness: correctness_score
         calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
+    adventure-less:
+        subgrades:
+            correctness: integer
+            points: integer
+        automatic:
+            correctness: correctness_score
+        calculation: (points / 6.0 * 9 + 1).round(1)
+        hide_calculated: true
     takehome:
         type: pass
         subgrades:
