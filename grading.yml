@@ -66,6 +66,10 @@ grades:
         type: pass
     diagrammer-serializer:
         type: pass
+    diagrammer-operations:
+        type: pass
+    diagrammer-integration:
+        type: pass
 
 
 calculation:
