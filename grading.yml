@@ -75,8 +75,8 @@ grades:
 calculation:
     final:
         mods: 100
-        oefeningen: 0
-        tentamens: 0
+        # oefeningen: 0
+        # tentamens: 0
 
 mods:
     show_progress: true
@@ -89,13 +89,13 @@ mods:
         adventure-less: 1
         # diagrammer: 1
 
-oefeningen:
-    show_progress: true
-    submits:
-        queue: 1
-        cards: 1
-
-tentamens:
-    show_progress: true
-    submits:
-        takehome: 1
+# oefeningen:
+#     show_progress: true
+#     submits:
+#         queue: 1
+#         cards: 1
+#
+# tentamens:
+#     show_progress: true
+#     submits:
+#         takehome: 1
