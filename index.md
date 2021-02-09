@@ -2,9 +2,6 @@
 
 ## Studiewijzer INF4ALL<br><small>Herfst 2020</small>
 
-> **Let op!** Deze studiewijzer is indicatief. Na de eerste bijeenkomst worden details aangepast en aangevuld.
-{:.bg-warning}
-
 Dit is een inleiding in het programmeren in Python met behulp van objecten en classes. Toepassingen staan centraal: eerst met casussen uit de wetenschap, waar Python steeds vaker gebruikt wordt, en later met behulp van een aantal games die zich goed lenen om te oefenen met objectgeoriënteerd programmeren. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk beschikbaar op de momenten dat het pittig wordt. Naast het werken aan problemen oplossen is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
 
 De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie. Je kunt hem bereiken via e-mail op <m.stegeman@uva.nl>.
@@ -25,13 +22,12 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 
 | onderdeel | telt mee |  
 | --------- | -------- |
-| Module 0  | 1/7 deel |
-| Module 1  | 1/7 deel |
-| Module 2  | 1/7 deel |
-| Module 3  | 1/7 deel |
-| Module 4  | 1/7 deel |
-| Module 5  | 1/7 deel |
-| Module 6  | 1/7 deel |
+| Module 0  | 1/6 deel |
+| Module 1  | 1/6 deel |
+| Module 2  | 1/6 deel |
+| Module 3  | 1/6 deel |
+| Module 4  | 1/6 deel |
+| Module 5  | 1/6 deel |
 
 Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
 
@@ -54,7 +50,7 @@ Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Slack:** direct contact met je team. (TODO)
+**Slack:** direct contact met je team.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
@@ -71,7 +67,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - problemen met je computer
 - problemen met de werking van je online IDE
 - hele nare bugs
-- aanmelden via [Calendly](https://calendly.com/proglab/helpdesk)
+- aanmelden via Calendly
 
 **Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
 
@@ -103,15 +99,15 @@ Tijdens de bijeenkomsten staan de volgende onderdelen op het programma:
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `checkpy` of `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
-| module   | naam       | deadline oplossing | deadline verbeterd |  
-| -------- | ---------- | ------------------ | ------------------ |
-| Module 0 | Algoritmen | do 10 sep  12:59   | ma 14 sep  20:59   |  
-| Module 1 |            | do 24 sep  12:59   | ma 28 sep  20:59   |  
-| Module 2 |            | do  8 okt  12:59   | ma 12 okt  20:59   |  
-| Module 3 |            | do 22 okt  12:59   | ma 26 okt  20:59   |  
-| Module 4 |            | do  5 nov  12:59   | ma  9 nov  20:59   |  
-| Module 5 |            | do 19 nov  12:59   | ma 23 nov  20:59   |  
-| Module 6 |            | do  3 dec  12:59   | ma  7 dec  20:59   |  
+| module   | naam                   | deadline oplossing | deadline verbeterd |  
+| -------- | ---------------------- | ------------------ | ------------------ |
+| Module 0 | Algoritmen             | do 10 sep  12:59   | ma 14 sep  20:59   |  
+| Module 1 | Integreren             | do 24 sep  12:59   | ma 28 sep  20:59   |  
+| Module 2 | Monopoly               | do  8 okt  12:59   | ma 12 okt  20:59   |  
+| Module 3 | Complexity             | do 22 okt  12:59   | ma 26 okt  20:59   |  
+| Module 4 | Hangman                | do  5 nov  12:59   | ma  9 nov  20:59   |  
+| Module 5 | Adventure              | do 19 nov  12:59   | ma 23 nov  20:59   |  
+| Module 6 | Diagrammer (optioneel) | do  3 dec  12:59   | ma  7 dec  20:59   |  
 
 Daarnaast is er een take-hometoets in week 8 en een mondelinge review en afronding in week 16.
 
