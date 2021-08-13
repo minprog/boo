@@ -5,5 +5,5 @@ files:
         - monopoly_realistisch.py
 check:
     tool: checkpy
-    repo: uva/progns2
+    repo: uvapl/progns2
     args: -m monopoly
