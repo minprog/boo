@@ -11,7 +11,7 @@ De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle vier de vrijdagse bijeenkomsten bijwoont
+2. alle vijf de vrijdagse [bijeenkomsten](#bijeenkomsten) bijwoont
 3. de reflectieve vragen van het tentamen maakt
 4. de programmeervragen van het tentamen overwegend werkend krijgt
 
@@ -46,7 +46,7 @@ In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programme
 3. **review** met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
 4. ontvang je beoordeling en schrijf een **reflectie**
 
-Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt zelfs in een vast schema gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 
 ## Vragen stellen
