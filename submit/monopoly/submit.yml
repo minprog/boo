@@ -1,9 +1,0 @@
-name: monopoly-sub
-files:
-    required:
-        - monopoly.py
-        - monopoly_realistisch.py
-check:
-    tool: checkpy
-    repo: uvapl/progns2
-    args: -m monopoly

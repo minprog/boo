@@ -1,76 +1,29 @@
-grades:
-    algoritmen-sub:
+templates:
+    1: &automatic
+        type: pass
         subgrades:
-            correctness: integer
-            points: integer
+            done: boolean
         automatic:
-            correctness: correctness_score
-        calculation: correctness == 14 && (points / 6.0 * 9 + 1).round(1) || 0
+            done: -(correctness_score.floor)
+        calculation: done
+        auto_publish: true
         hide_calculated: true
-    integreren-sub:
-        subgrades:
-            correctness: integer
-            points: integer
-        automatic:
-            correctness: correctness_score
-        calculation: correctness == 20 && (points / 6.0 * 9 + 1).round(1) || 0
-        hide_calculated: true
-    monopoly-sub:
-        subgrades:
-            correctness: integer
-            points: integer
-        automatic:
-            correctness: correctness_score
-        calculation: (points / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
-    complexity-sub:
+    2: &manual
+        type: float
         subgrades:
             points: integer
         calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
-    queue:
+    3: &check
         type: pass
         subgrades:
             done: boolean
         calculation: done
-        hide_subgrades: true
-    cards:
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_subgrades: true
-    hangman-less:
-        subgrades:
-            correctness: integer
-            points: integer
-        automatic:
-            correctness: correctness_score
-        calculation: (points / 6.0 * 9 + 1).round(1)
         hide_calculated: true
-    adventure-less:
-        subgrades:
-            correctness: integer
-            points: integer
-        automatic:
-            correctness: correctness_score
-        calculation: (points / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
-    takehome:
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_subgrades: true
-    diagrammer-models:
-        type: pass
-    diagrammer-serializer:
-        type: pass
-    diagrammer-operations:
-        type: pass
-    diagrammer-integration:
-        type: pass
 
+grades:
+    scratch: *check
+    hello: *automatic
 
 calculation:
     final:
