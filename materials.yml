@@ -25,3 +25,6 @@ lectures:
 cs50t:
     remote: https://github.com/minprog/cs50t.git
     branch: main
+diagrammer:
+    remote: https://github.com/minprog/diagrammer.git
+    branch: 2021
