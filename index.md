@@ -16,7 +16,7 @@ Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
 2. alle vijf de vrijdagse [bijeenkomsten](#bijeenkomsten) bijwoont
-3. de reflectieve vragen van het tentamen naar verwachting beantwoord
+3. de reflectieve vragen van het tentamen naar verwachting beantwoordt
 4. voor de programmeervragen van het tentamen overwegend werkende oplossingen implementeert
 
 
