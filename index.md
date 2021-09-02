@@ -31,9 +31,9 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 | Module 6  | 1/7 deel  |
 | Module 7  | 1/7 deel  |
 
-Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
+Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Dat betekent vooral dat je géén opdrachten kunt overslaan. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
 
-Er is ook een bonuslevel (Module 8) met een bijzonder pittige opdracht die regelmatige begeleiding vereist. Deze module is uitsluitend bedoeld voor studenten die al veel ervaring hebben of gewoon zeer snel gaan, <u>en</u> daardoor flink vooruitlopen. De deadline van deze module is daarom ook gelijk aan die van module 7. Niettemin: dit is geen wedstrijdje.
+Er is ook een bonuslevel (module 8) met een bijzonder pittige opdracht die regelmatige begeleiding vereist. Deze module is uitsluitend bedoeld voor studenten die al veel ervaring hebben of gewoon zeer snel gaan, <u>en</u> daardoor flink vooruitlopen. De deadline van deze module is daarom ook gelijk aan die van module 7. Niettemin: dit is geen wedstrijdje.
 
 
 ## Werkwijze
