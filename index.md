@@ -60,7 +60,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - problemen met de werking van je online IDE
 - aanmelden via de planningstool
 
-**Mail:** contact met de docent via <m.stegeman@mprog.nl>.
+**Mail:** contact met de docent via <m.stegeman@uva.nl>.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
