@@ -32,7 +32,7 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 | Module 7  | 1/7 deel  |
 | Module 8  | 2/7 bonus |
 
-Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
+Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
 
 
 ## Werkwijze
@@ -91,6 +91,9 @@ De data:
 - vrijdag 29 oktober
 - vrijdag 26 november
 - vrijdag 24 december
+
+Het tentamen is ingepland op 21 januari 2022.
+
 
 ## Deadlines
 
