@@ -2,7 +2,7 @@
 
 ## Studiewijzer INF4ALL<br><small>Herfst 2021</small>
 
-Dit is een inleiding in het programmeren in Python met behulp van objecten en classes. Toepassingen staan centraal: eerst met casussen uit de wetenschap, waar Python steeds vaker gebruikt wordt, en later met behulp van een aantal games die zich goed lenen om te oefenen met objectgeoriënteerd programmeren. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk beschikbaar op de momenten dat het pittig wordt. Naast het werken aan problemen oplossen is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
+Dit is een inleiding in het programmeren in C en Python met behulp van objecten en classes. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk regelmatig beschikbaar op de momenten dat het pittig wordt. Naast het werken aan problemen oplossen is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
 
 De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie. Je kunt hem bereiken via e-mail op <m.stegeman@uva.nl>.
 
@@ -11,23 +11,26 @@ De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle vrijdagse bijeenkomsten bijwoont
-3. de reflectieve take-hometoets doet
-4. de mondelinge eindtoets doet
+2. alle vier de vrijdagse bijeenkomsten bijwoont
+3. de reflectieve vragen van het tentamen maakt
+4. de programmeervragen van het tentamen overwegend werkend krijgt
 
 
 ## Eindcijfer
 
 Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdrachten. De opdrachten zijn verdeeld over modules, die als volgt meewegen:
 
-| onderdeel | telt mee |  
-| --------- | -------- |
-| Module 0  | 1/6 deel |
-| Module 1  | 1/6 deel |
-| Module 2  | 1/6 deel |
-| Module 3  | 1/6 deel |
-| Module 4  | 1/6 deel |
-| Module 5  | 1/6 deel |
+| onderdeel | telt mee  |  
+| --------- | --------- |
+| Module 0  | -         |
+| Module 1  | 1/7 deel  |
+| Module 2  | 1/7 deel  |
+| Module 3  | 1/7 deel  |
+| Module 4  | 1/7 deel  |
+| Module 5  | 1/7 deel  |
+| Module 6  | 1/7 deel  |
+| Module 7  | 1/7 deel  |
+| Module 8  | 2/7 bonus |
 
 Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
 
@@ -48,28 +51,16 @@ Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke
 
 ## Vragen stellen
 
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
-
-**Slack:** direct contact met je team.
-
-- onderlinge support
-- snelle vragen over deadlines, contact met samenwerkpartner
-- mentor is niet doorlopend beschikbaar!
-
-**Ed:** altijd beschikbaar, de belangrijkste plek voor hulp.
-
-- vragen over wat er in de opdracht bedoeld wordt
-- technische vragen over programmeren en bugs
-- medestudenten en assistenten denken mee
+Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Bij de bijeenkomsten in Utrecht is geen tijd voor het assisteren bij de opdrachten. Zorg dus dat je de assistentie in de loop van de weken vóór de bijeenkomsten inplant.
 
 **Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
-- problemen met je computer
+- helpen nadenken over de probleemstelling
+- bugs in je programma
 - problemen met de werking van je online IDE
-- hele nare bugs
-- aanmelden via Calendly
+- aanmelden via de planningstool
 
-**Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
+**Mail:** contact met de docent via <m.stegeman@mprog.nl>.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
@@ -87,13 +78,20 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Bijeenkomsten
 
-Tijdens de bijeenkomsten staan de volgende onderdelen op het programma:
+Tijdens de bijeenkomsten in Utrecht staan de volgende onderdelen op het programma:
 
 - Kennismaking
 - Terugblik op de opdrachten
 - Onderlinge code reviews
 - Aanwijzingen voor de cursus
 
+De data:
+
+- vrijdag 3 september
+- vrijdag 1 oktober
+- vrijdag 29 oktober
+- vrijdag 26 november
+- vrijdag 24 december
 
 ## Deadlines
 
@@ -101,19 +99,19 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | module   | naam                   | deadline oplossing | deadline verbeterd |  
 | -------- | ---------------------- | ------------------ | ------------------ |
-| Module 0 | Algoritmen             | do 10 sep  12:59   | ma 14 sep  20:59   |  
-| Module 1 | Integreren             | do 24 sep  12:59   | ma 28 sep  20:59   |  
-| Module 2 | Monopoly               | do  8 okt  12:59   | ma 12 okt  20:59   |  
-| Module 3 | Complexity             | do 22 okt  12:59   | ma 26 okt  20:59   |  
-| Module 4 | Hangman                | do  5 nov  12:59   | ma  9 nov  20:59   |  
-| Module 5 | Adventure              | do 19 nov  12:59   | ma 23 nov  20:59   |  
-| Module 6 | Diagrammer (optioneel) | do  3 dec  12:59   | ma  7 dec  20:59   |  
-
-Daarnaast is er een take-hometoets in week 8 en een mondelinge review en afronding in week 16.
+| Module 0 | Scratch                | do 16 sep  12:59   | -                  |  
+| Module 1 | C                      | do 30 sep  12:59   | vr  1 okt  20:59   |  
+| Module 2 | Strings                | do 14 okt  12:59   | vr 29 okt  20:59   |  
+| Module 3 | Caesar                 | do 28 okt  12:59   | vr 29 okt  20:59   |  
+| Module 4 | Find                   | do 11 nov  12:59   | vr 26 nov  20:59   |  
+| Module 5 | Python                 | do 25 nov  12:59   | vr 26 nov  20:59   |  
+| Module 6 | Hangman                | do  9 dec  12:59   | vr 24 dec  20:59   |  
+| Module 7 | Adventure              | do 23 dec  12:59   | vr 24 dec  20:59   |  
+| Module 8 | Diagrammer (bonus)     | do 23 dec  12:59   | vr 24 dec  20:59   |  
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je mentor de deadline één of twee dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
+In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je docent de deadline een aantal dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je docent op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
 </details>
@@ -121,7 +119,7 @@ Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in me
 
 ## Cijfers
 
-Modules 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
+De modules kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
@@ -132,16 +130,7 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
 
-<!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
-
-| uitstel          | aftrek                            |
-| ---------------- | --------------------------------- |
-| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |
-| maximaal 3 dagen | 1 punt                            |   -->
-
 Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk.
-
-<!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
 
 ## Samenwerken
@@ -216,8 +205,6 @@ Alle inzendingen worden gecontroleerd met behulp van een detectiesysteem dat zoe
 Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en om af te spreken hoe je het vak zonder plagiëren kunt halen. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
 In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt, zelfs al is de deadline nabij.
-
-De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
 
 ## Herkansingen

@@ -1,7 +1,7 @@
 Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Module 1:
+Module 0:
     'Videocollege: Computational Thinking': /lectures/computational-thinking
     Scratch [individueel]: /cs50/scratch
     'Boek: Variabelen [basisboek]': /exercises/book/variables
@@ -9,45 +9,45 @@ Module 1:
     'Hello [zelf]': /cs50/hello
     Population [samen]: /cs50/population
 
-Module 2:
+Module 1:
     Mario [individueel]: /cs50/mario/less
     Cash [individueel]: /cs50/cash
     'Boek: Control Flow [basisboek]': /exercises/book/control-flow
     'Videocollege: Arrays': /lectures/arrays
 
-Module 3:
+Module 2:
     'Oefenen: Strings [samen]': /exercises/writing/strings
     'Scrabble [samen]': /cs50/scrabble
     'Readability [individueel]': /cs50/readability
     'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
 
-Module 4:
+Module 3:
     'Oefenen: Functies [zelf]': /exercises/writing/functions
     'Caesar [individueel]': /cs50/caesar
     'Boek: Functies [basisboek]': /exercises/book/functions
     'Videocollege: Algorithms': /lectures/algorithms
 
-Module 5:
+Module 4:
     'Oefenen: Linear Search [samen]': /exercises/writing/linear
     Sort [samen]: /cs50/sort
     Find [individueel]: /cs50/find/less
     'Oefenen: Big-O [zelf]': /exercises/study/big-o
     'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
 
-Module 6:
+Module 5:
     'Videocollege: Python': /lectures/python-david
     Mario [zelf]: /cs50/py/mario
     Readability [zelf]: /cs50/py/readability
     World Cup [samen]: /cs50/worldcup
     DNA [individueel]: /cs50/dna
 
-Module 7:
+Module 6:
     "Videocollege: OOP": /objects/lecture
     Implementeer Queue: /objects/queue
     Implementeer Game of Cards: /objects/cards
     Hangman [samen]: /hangman/classic
 
-Module 8:
+Module 7:
     Maandag:
         "Adventure: introduction": /adventure/steps/introduction
         "Adventure: room class": /adventure/steps/room
@@ -63,7 +63,7 @@ Module 8:
         "Adventure: synonyms": /adventure/steps/synonyms
         "Adventure: submit": /adventure/steps/submit
 
-Module 9:
+Module 8:
     Diagrammer: /diagrammer
     'Diagrammer: modelleren': /diagrammer/modelleren
     'Diagrammer: serialisatie': /diagrammer/serialisatie
