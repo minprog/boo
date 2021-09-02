@@ -2,9 +2,13 @@
 
 ## Studiewijzer INF4ALL<br><small>Herfst 2021</small>
 
-Dit is een inleiding in het programmeren in C en Python met behulp van objecten en classes. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk regelmatig beschikbaar op de momenten dat het pittig wordt. Naast het werken aan problemen oplossen is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
+Dit is een inleiding in het programmeren in de talen **C en Python** met behulp van objecten en classes. De cursus vraagt veel zelfstudie, maar docenten en assistenten zijn natuurlijk regelmatig beschikbaar op de momenten dat het pittig wordt.
 
-De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie. Je kunt hem bereiken via e-mail op <m.stegeman@uva.nl>.
+De cursus is geschikt voor beginners, maar beginnen met programmeren kost simpelweg heel erg veel tijd. Tijdens de eerste weken krijg je een indruk van de studielast. Hou er rekening mee dat we ook af en toe even versnellen.
+
+Naast het werken aan "problemen oplossen" is er veel aandacht voor codekwaliteit door middel van peer reviews en is er persoonlijke feedback op de opdrachtuitwerkingen. Het cursusmateriaal is tot slot open source en herbruikbaar voor de bovenbouw van het vwo.
+
+De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie. Je kunt hem bereiken via e-mail op <help@mprog.nl>.
 
 ## Verwachtingen
 
@@ -31,7 +35,7 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 | Module 6  | 1/7 deel  |
 | Module 7  | 1/7 deel  |
 
-Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Dat betekent vooral dat je géén opdrachten kunt overslaan. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
+Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Dat betekent vooral dat je géén opdrachten kunt overslaan. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>).
 
 Er is ook een bonuslevel (module 8) met een bijzonder pittige opdracht die regelmatige begeleiding vereist. Deze module is uitsluitend bedoeld voor studenten die al veel ervaring hebben of gewoon zeer snel gaan, <u>en</u> daardoor flink vooruitlopen. De deadline van deze module is daarom ook gelijk aan die van module 7. Niettemin: dit is geen wedstrijdje.
 
