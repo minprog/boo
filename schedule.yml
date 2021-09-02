@@ -1,86 +1,57 @@
 Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Week 1:
+Module 1:
     'Videocollege: Computational Thinking': /lectures/computational-thinking
     Scratch [individueel]: /cs50/scratch
     'Boek: Variabelen [basisboek]': /exercises/book/variables
     'Videocollege: C': /lectures/c
     'Hello [zelf]': /cs50/hello
+    Population [samen]: /cs50/population
 
-Week 2:
-    Maandag:
-        Population [samen]: /cs50/population
-    Dinsdag:
-        Mario [individueel]: /cs50/mario/less
-    Woensdag:
-        'Boek: Control Flow [basisboek]': /exercises/book/control-flow
-    Donderdag:
-        Hardware [zelf]: /cs50t/hardware
+Module 2:
+    Mario [individueel]: /cs50/mario/less
+    Cash [individueel]: /cs50/cash
+    'Boek: Control Flow [basisboek]': /exercises/book/control-flow
+    'Videocollege: Arrays': /lectures/arrays
 
-Week 3:
-    Maandag en dinsdag:
-        Cash [individueel]: /cs50/cash
-    Woensdag:
-        'Videocollege: Arrays': /lectures/arrays
-    Donderdag:
-        'Oefenen: Strings [samen]': /exercises/writing/strings
-    Vrijdag:
-        Internet [zelf]: /cs50t/internet
-    Extra:
-        Credit [extra]: /cs50/credit
+Module 3:
+    'Oefenen: Strings [samen]': /exercises/writing/strings
+    'Scrabble [samen]': /cs50/scrabble
+    'Readability [individueel]': /cs50/readability
+    'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
 
-Week 4:
-    Maandag:
-        'Scrabble [samen]': /cs50/scrabble
-    Dinsdag en woensdag:
-        'Readability [individueel]': /cs50/readability
-    Donderdag:
-        'Oefenen: Functies [zelf]': /exercises/writing/functions
-    Vrijdag:
-        Security [zelf]: /cs50t/security
+Module 4:
+    'Oefenen: Functies [zelf]': /exercises/writing/functions
+    'Caesar [individueel]': /cs50/caesar
+    'Boek: Functies [basisboek]': /exercises/book/functions
+    'Videocollege: Algorithms': /lectures/algorithms
 
-Week 5:
-    Maandag en dinsdag:
-        'Caesar [individueel]': /cs50/caesar
-    Woensdag:
-        'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
-    Donderdag:
-        'Videocollege: Algorithms': /lectures/algorithms
-    Extra:
-        Crack [extra]: /cs50/crack
+Module 5:
+    'Oefenen: Linear Search [samen]': /exercises/writing/linear
+    Sort [samen]: /cs50/sort
+    Find [individueel]: /cs50/find/less
+    'Oefenen: Big-O [zelf]': /exercises/study/big-o
+    'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
 
-Week 6:
-    Maandag:
-        'Oefenen: Linear Search [samen]': /exercises/writing/linear
-    Dinsdag en woensdag:
-        Find [individueel]: /cs50/find/less
-    Donderdag:
-        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
+Module 6:
+    'Videocollege: Python': /lectures/python-david
+    Mario [zelf]: /cs50/py/mario
+    Readability [zelf]: /cs50/py/readability
+    World Cup [samen]: /cs50/worldcup
+    DNA [individueel]: /cs50/dna
 
-Week 7:
-    Maandag en dinsdag:
-        Sort [samen]: /cs50/sort
-    Dinsdag:
-        'Oefenen: Big-O [zelf]': /exercises/study/big-o
-    Woensdag:
-        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
-    Donderdag:
-        'Boek: Functies [basisboek]': /exercises/book/functions
-    Extra:
-        Fifteen [extra]: /cs50/fifteen/random
-
-Hangman:
+Module 7:
   "":
     - hangman
   # Submit:
   #   Inleveren van de opdrachten: /submit/hangman
 
-Adventure:
+Module 8:
   "":
     - adventure
   # Submit:
   #   Inleveren van de opdrachten: /submit/adventure
 
-Diagrammer:
+Module 9:
     - diagrammer
