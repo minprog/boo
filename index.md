@@ -34,19 +34,17 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 
 Je moet aan alle bovenstaande verwachtingen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <m.stegeman@uva.nl>).
 
-Tijdens de mondelinge eindtoets moet je laten zien dat je voldoende begrip hebt opgebouwd van de verschillende programmeerconstructies die je hebt gebruikt bij het maken van de opdrachten.
-
 
 ## Werkwijze
 
-In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt in fases aan de opdrachten:
+In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit modules die elk weer bestaan uit enkele opdrachten. Je werkt in fases aan de opdrachten:
 
-1. **ontwerp** een oplossing voor een opdracht, samen met een partner uit je team
-2. **implementeer** deze oplossing, zonder partner, maar met allerlei mogelijkheden om hulp te krijgen
-3. **review** met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
-4. ontvang je beoordeling en schrijf een **reflectie**
+1. **ontwerp** een oplossing voor een opdracht, op basis van de gegeven informatie
+2. **implementeer** deze oplossing, en controleer steeds je oplossingen met de aangeboden tools
+3. **review** met een partner uit elkaars uitwerkingen, en verbeter je eigen code
+4. ontvang je beoordeling en schrijf een korte **reflectie**
 
-Tijdens de werkgroepen neemt je docent het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+Code reviews (punt 3) vinden plaats tijdens de bijeenkomsten. De partners worden steeds gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 
 ## Vragen stellen
@@ -58,9 +56,10 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - helpen nadenken over de probleemstelling
 - bugs in je programma
 - problemen met de werking van je online IDE
-- aanmelden via de planningstool
+- in principe elke werkdag beschikbaar
+- aanmelden via de planningstool (link volgt!)
 
-**Mail:** contact met de docent via <m.stegeman@uva.nl>.
+**Mail:** contact met de docent via <help@mprog.nl>.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
@@ -95,7 +94,7 @@ De data:
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `checkpy` of `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
+Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `checkpy` of `check50`, die je zelf ook ter beschikking krijgt. Daarna volgt een deadline waarbij je je werkende programma's verbetert en nogmaals inlevert.
 
 | module   | naam                   | deadline oplossing | deadline verbeterd |  
 | -------- | ---------------------- | ------------------ | ------------------ |
@@ -113,7 +112,7 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je docent de deadline een aantal dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je docent op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
 </details>
 
 
@@ -124,8 +123,8 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
-4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
-3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
+4. degelijke kwaliteit op alle genoemde aspecten, met ruimte voor verbetering
+3. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
