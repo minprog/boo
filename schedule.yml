@@ -1,71 +1,82 @@
 Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Module 0:
-    'Videocollege: Computational Thinking': /lectures/computational-thinking
-    Scratch [individueel]: /cs50/scratch
-    'Boek: Variabelen [basisboek]': /exercises/book/variables
-    'Videocollege: C': /lectures/c
-    'Hello [zelf]': /cs50/hello
-    Population [samen]: /cs50/population
+Sessie 0:
+    Scratch:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+        Scratch [individueel]: /cs50/scratch
+        'Boek: Variabelen [basisboek]': /exercises/book/variables
+    C:
+        'Videocollege: C': /lectures/c
+        'Hello [zelf]': /cs50/hello
+        Population [samen]: /cs50/population
 
-Module 1:
-    Mario [individueel]: /cs50/mario/less
-    Cash [individueel]: /cs50/cash
-    'Boek: Control Flow [basisboek]': /exercises/book/control-flow
-    'Videocollege: Arrays': /lectures/arrays
+Sessie 1:
+    C:
+        Mario [individueel]: /cs50/mario/less
+        Cash [individueel]: /cs50/cash
+        'Boek: Control Flow [basisboek]': /exercises/book/control-flow
+    Arrays:
+        'Videocollege: Arrays': /lectures/arrays
 
-Module 2:
-    'Oefenen: Strings [samen]': /exercises/writing/strings
-    'Scrabble [samen]': /cs50/scrabble
-    'Readability [individueel]': /cs50/readability
-    'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
+Sessie 2:
+    Strings:
+        'Oefenen: Strings [samen]': /exercises/writing/strings
+        'Scrabble [samen]': /cs50/scrabble
+        'Readability [individueel]': /cs50/readability
+        'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
 
-Module 3:
-    'Oefenen: Functies [zelf]': /exercises/writing/functions
-    'Caesar [individueel]': /cs50/caesar
-    'Boek: Functies [basisboek]': /exercises/book/functions
-    'Videocollege: Algorithms': /lectures/algorithms
+Sessie 3:
+    Caesar:
+        'Oefenen: Functies [zelf]': /exercises/writing/functions
+        'Caesar [individueel]': /cs50/caesar
+        'Boek: Functies [basisboek]': /exercises/book/functions
+    Find:
+        'Videocollege: Algorithms': /lectures/algorithms
 
-Module 4:
-    'Oefenen: Linear Search [samen]': /exercises/writing/linear
-    Sort [samen]: /cs50/sort
-    Find [individueel]: /cs50/find/less
-    'Oefenen: Big-O [zelf]': /exercises/study/big-o
-    'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
+Sessie 4:
+    Find:
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
+        Sort [samen]: /cs50/sort
+        Find [individueel]: /cs50/find/less
+        'Oefenen: Big-O [zelf]': /exercises/study/big-o
+        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
 
-Module 5:
-    'Videocollege: Python': /lectures/python-david
-    Mario [zelf]: /cs50/py/mario
-    Readability [zelf]: /cs50/py/readability
-    World Cup [samen]: /cs50/worldcup
-    DNA [individueel]: /cs50/dna
+Sessie 5:
+    Python:
+        'Videocollege: Python': /lectures/python-david
+        Mario [zelf]: /cs50/py/mario
+        Readability [zelf]: /cs50/py/readability
+        World Cup [samen]: /cs50/worldcup
+    Python deel 2:
+        DNA [individueel]: /cs50/dna
 
-Module 6:
-    "Videocollege: OOP": /objects/lecture
-    Implementeer Queue: /objects/queue
-    Implementeer Game of Cards: /objects/cards
-    Hangman [samen]: /hangman/classic
+Sessie 6:
+    Hangman:
+        "Videocollege: OOP": /objects/lecture
+        Implementeer Queue: /objects/queue
+        Implementeer Game of Cards: /objects/cards
+    Hangman deel 2:
+        Hangman [individueel]: /hangman/classic
 
-Module 7:
-    Maandag:
+Sessie 7:
+    Adventure:
         "Adventure: introduction": /adventure/steps/introduction
         "Adventure: room class": /adventure/steps/room
         "Adventure: data files": /adventure/steps/data
-    Dinsdag:
         "Adventure: moving around": /adventure/steps/move
         "Adventure: forced movement": /adventure/steps/forced
-    Woensdag:
+    Adventure deel 2:
         "Adventure: items": /adventure/steps/items
         "Adventure: conditional movement": /adventure/steps/conditional
-    Donderdag:
         "Adventure: additional commands": /adventure/steps/commands
         "Adventure: synonyms": /adventure/steps/synonyms
         "Adventure: submit": /adventure/steps/submit
 
-Module 8:
-    Diagrammer: /diagrammer
-    'Diagrammer: modelleren': /diagrammer/modelleren
-    'Diagrammer: serialisatie': /diagrammer/serialisatie
-    'Diagrammer: bewerkingen': /diagrammer/bewerkingen
-    'Diagrammer: hoofdprogramma': /diagrammer/hoofdprogramma
+Sessie 8:
+    Diagrammer:
+        Diagrammer: /diagrammer
+        'Diagrammer: modelleren': /diagrammer/modelleren
+        'Diagrammer: serialisatie': /diagrammer/serialisatie
+        'Diagrammer: bewerkingen': /diagrammer/bewerkingen
+        'Diagrammer: hoofdprogramma': /diagrammer/hoofdprogramma
