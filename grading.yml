@@ -24,17 +24,102 @@ templates:
 grades:
     scratch: *check
     hello: *automatic
+    population: *automatic
+    mario_less: *automatic
+    cash: *automatic
+    strings: *check
+    scrabble: *automatic
+    readability: *automatic
+    caesar: *automatic
+    functions: *check
+    linear: *check
+    algorithms: *check
+    sort: *automatic
+    find_less: *automatic
+    big_o: *check
+    mario_py: *automatic
+    readability_py: *automatic
+    worldcup: *automatic
+    dna: *automatic
+
+    credit: *automatic
+    crack: *automatic
+    fifteen_random: *automatic
+
+    basics_variables: *check
+    basics_control_flow: *check
+    basics_arrays: *check
+    basics_functions: *check
+
+    review_1: *manual
+    review_2: *manual
+    review_3: *manual
+    review_4: *manual
+    review_5: *manual
+    review_6: *manual
+
+    retrospective_1: *check
+    retrospective_2: *check
+    retrospective_3: *check
+    retrospective_4: *check
+    retrospective_5: *check
 
 calculation:
-    final:
-        mods: 100
+    eindcijfer:
+        opdrachten: 0
+        basisboek: 0
+        reviews: 75
+        retrospectives: 0
 
-mods:
+opdrachten:
     show_progress: true
     submits:
-        algoritmen-sub: 1
-        integreren-sub: 1
-        monopoly-sub: 1
-        complexity-sub: 1
-        hangman-less: 1
-        adventure-less: 1
+        scratch: 1
+        hello: 1
+        population: 1
+        mario_less: 1
+        cash: 1
+        strings: 1
+        scrabble: 1
+        readability: 1
+        caesar: 1
+        functions: 1
+        linear: 1
+        algorithms: 1
+        sort: 1
+        find_less: 1
+        big_o: 1
+        credit: :bonus
+        crack: :bonus
+        fifteen_random: :bonus
+        mario_py: 1
+        readability_py: 1
+        worldcup: 1
+        dna: 1
+
+basisboek:
+    show_progress: true
+    submits:
+        basics_variables: 1
+        basics_control_flow: 1
+        basics_arrays: 1
+        basics_functions: 1
+
+reviews:
+    show_progress: true
+    submits:
+        review_1: 1
+        review_2: 1
+        review_3: 1
+        review_4: 1
+        review_5: 1
+        review_6: 1
+
+retrospectives:
+    show_progress: true
+    submits:
+        retrospective_1: 1
+        retrospective_2: 1
+        retrospective_3: 1
+        retrospective_4: 1
+        retrospective_5: 1
