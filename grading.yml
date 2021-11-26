@@ -20,6 +20,14 @@ templates:
             done: boolean
         calculation: done
         hide_calculated: true
+    4: &optional-check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        automatic:
+            done: -(correctness_score.floor)
+        hide_calculated: true
 
 grades:
     scratch: *check
