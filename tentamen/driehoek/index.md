@@ -2,8 +2,6 @@
 
 Dit is een oefenopdracht voor het tentamen. Je gaat hier maximaal 30 minuten aan besteden en dan lever je in wat je hebt.
 
-Later deze week kun je buiten de laptopcolleges de tentamenopdracht afmaken. Je hoeft deze niet meer in te leveren, want het gaat om de momentopname.
-
 > Als bronnen mag je gebruiken:
 > 
 > 1. de lecture notes (en de rest van deze website),
