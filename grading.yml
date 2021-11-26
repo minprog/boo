@@ -64,6 +64,10 @@ grades:
     retrospective_4: *check
     retrospective_5: *check
 
+    toef1: *optional-check
+    toef2: *optional-check
+    toef3: *optional-check
+
 calculation:
     eindcijfer:
         opdrachten: 0
@@ -123,3 +127,11 @@ retrospectives:
         retrospective_3: 1
         retrospective_4: 1
         retrospective_5: 1
+
+oefententamen:
+    show_progress: true
+    required: true
+    submits:
+        toef1: 0
+        toef2: 0
+        # toef3: 0
