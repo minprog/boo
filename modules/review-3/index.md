@@ -1,4 +1,4 @@
-# Code review 3 (Caesar)
+# Code review 3 (Find & DNA)
 
 > Warning: do not start code review until you **and** your partner are completely done and have submitted working versions of each program in the module. If you haven't finished your programs you should ask for help on that specifically and never look at someone else's code.
 > Additionaly, your mentor should assign a partner for you: each week, it will be a **different** one. This is make sure that you encounter as many insights as possible about writing good code.
@@ -18,6 +18,14 @@ In order to keep the task within reasonable limits, for each module we will prov
     - [Naming](/quality/aspects/naming)
     - [Cleanup](/quality/aspects/cleanup)
     - [Nesting](/quality/aspects/nesting) 🆕
+
+1.  Here are the Python versions of these explanations:
+
+    - [Formatting](/quality/aspects/python/formatting)
+    - [Comments](/quality/aspects/python/comments)
+    - [Naming](/quality/aspects/python/naming)
+    - [Cleanup](/quality/aspects/python/cleanup)
+    - [Nesting](/quality/aspects/python/nesting) 🆕
 
 2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
