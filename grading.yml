@@ -50,11 +50,10 @@ grades:
     worldcup: *automatic
     dna: *automatic
     
-    queue: *fullyauto
-    cards: *fullyauto
-    hangman-less: *fullyauto
-
-    adventure-steps: *fullyauto
+    queue: *automatic
+    cards: *automatic
+    hangman-less: *automatic
+    adventure-steps: *automatic
     
 
     credit: *automatic
