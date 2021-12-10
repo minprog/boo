@@ -49,6 +49,13 @@ grades:
     readability_py: *automatic
     worldcup: *automatic
     dna: *automatic
+    
+    queue: *fullyauto
+    cards: *fullyauto
+    hangman-less: *fullyauto
+
+    adventure-steps: *fullyauto
+    
 
     credit: *automatic
     crack: *automatic
@@ -108,6 +115,10 @@ opdrachten:
         readability_py: 1
         worldcup: 1
         dna: 1
+        queue: 1
+        cards: 1
+        hangman-less: 1
+        adventure-steps: 1
 
 basisboek:
     show_progress: true
