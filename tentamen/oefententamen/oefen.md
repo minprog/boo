@@ -2,14 +2,9 @@
 
 > Regels voor het tentamen:
 > 
-> - Ga naar de zaal die in jouw **persoonlijke** rooster op Datanose staat. Niet iedereen zit in dezelfde zaal.
 > - Je mag tot uiterlijk 30 minuten na de begintijd starten.
 > - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
-> - Leg je collegekaart klaar op tafel (of een andere ID met foto).
-> - Stilte in de zaal.
-> - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
-> - Klaar is klaar, dan kun je inleveren en weggaan.
-> - Voor inleveren steek je je hand op, de surveillant komt controleren voordat je inlevert.
+> - Klaar is klaar, dan kun je inleveren.
 
 Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
@@ -23,15 +18,15 @@ Als bronnen mag je gebruiken:
 2. de CS50 Manual waarin allerlei nuttige C-functies genoemd staan,
 3. en je eigen uitwerkingen van eerdere opdrachten.
 
-In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan.
+En dan nog wat basisregels:
 
-Programmeren moet in de CS50 IDE. Je hebt dus alleen je webbrowser geopend met daarin enkele tabs: de CS50 IDE, de CS50 Manual, en deze cursuswebsite. Je mag geen andere programma's open hebben.
+- In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan. Als je Python gebruikt mag je géén libraries importeren, behalve als aangegeven in de opdracht.
 
-Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
+- Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden"). Je moet je programmeerkunst demonstreren.
 
-De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
+- De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
-(Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+- (Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
 Succes!
 
