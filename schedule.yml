@@ -73,10 +73,13 @@ Sessie 7:
         "Adventure: synonyms": /adventure/steps/synonyms
         "Adventure: submit": /adventure/steps/submit
 
-Sessie 8:
-    Diagrammer:
-        Diagrammer: /diagrammer
-        'Diagrammer: modelleren': /diagrammer/modelleren
-        'Diagrammer: serialisatie': /diagrammer/serialisatie
-        'Diagrammer: bewerkingen': /diagrammer/bewerkingen
-        'Diagrammer: hoofdprogramma': /diagrammer/hoofdprogramma
+Tentamen:
+    Oefententamen: /tentamen/oefententamen
+
+# Sessie 8:
+#     Diagrammer:
+#         Diagrammer: /diagrammer
+#         'Diagrammer: modelleren': /diagrammer/modelleren
+#         'Diagrammer: serialisatie': /diagrammer/serialisatie
+#         'Diagrammer: bewerkingen': /diagrammer/bewerkingen
+#         'Diagrammer: hoofdprogramma': /diagrammer/hoofdprogramma

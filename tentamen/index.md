@@ -4,3 +4,4 @@ Neem maximaal 30 minuten per opdracht en lever dan in wat je hebt. Zo kun je fee
 
 1. [Rechthoeken](/tentamen/rechthoeken)
 2. [Regen](/tentamen/regen)
+3. Compleet [Oefententamen](/tentamen/oefententamen)
