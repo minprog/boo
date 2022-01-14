@@ -2,9 +2,9 @@
 
 > Regels voor het tentamen:
 > 
-> - Je mag tot uiterlijk 30 minuten na de begintijd starten.
-> - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
-> - Klaar is klaar, dan kun je inleveren.
+> - De opgaven worden om 9:00 uur per e-mail vrijgegeven.
+> - Je moet je oplossingen uiterlijk om 11:59 ingeleverd hebben via deze website. Geen mails.
+> - Er zijn twee inleverplekken onderaan de pagina, één voor C en één voor Python.
 
 Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
@@ -204,3 +204,4 @@ En dan wat minder goed gaat:
 
 Heb je één van de opdrachten niet gedaan? Maak dan een leeg bestand aan met de juiste naam, en gebruik dit om hieronder in te leveren.
 
+**Let op: dit oefententamen kun je niet inleveren.**
