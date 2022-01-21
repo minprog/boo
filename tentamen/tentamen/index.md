@@ -96,6 +96,8 @@ Gegeven een reeks getallen zoals [2, -5, -3, 1] kun je de absolute som definiër
     ./absoluut
     Usage: ./absoluut num...
 
+Importeren van `sys.argv` is natuurlijk prima hier.
+
 ## 3. Samenvatten
 
 Lange teksten lezen is vervelend. Schrijf een programma dat teksten inkort door van elk woord alleen de eerste en laatste letter te behouden. Alleen letters en cijfers horen tot "woorden". Alle andere tekens zoals spaties en komma's horen hier niet bij, en die moeten gewoon allemaal geprint worden.
