@@ -82,6 +82,8 @@ grades:
     toef2: *optional-check
     toef3: *optional-check
 
+    tentamen: *check
+
 calculation:
     eindcijfer:
         opdrachten: 0
@@ -153,3 +155,9 @@ oefententamen:
         toef1: 0
         toef2: 0
         # toef3: 0
+
+tentamen:
+    show_progress: true
+    required: true
+    submits:
+        tentamen: 1
