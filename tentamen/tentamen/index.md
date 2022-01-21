@@ -7,7 +7,7 @@
 > - De opgaven worden om 9:00 uur per e-mail vrijgegeven.
 > - Je moet je oplossingen uiterlijk om 11:59 ingeleverd hebben via deze website. Geen mails.
 > - Er zijn twee inleverplekken onderaan de pagina, één voor C en één voor Python.
-> - Neem contact op met Martijn via <https://uva-live.zoom.us/j/86091575813>. Inhoudelijke vragen kunnen niet beantwoord worden maar als er onduidelijkheden of fouten zijn heeft het wellicht zin om even te spreken.
+> - Neem contact op met Martijn via <https://uva-live.zoom.us/j/86091575813>. Inhoudelijke vragen kunnen niet beantwoord worden maar als er onduidelijkheden of fouten zijn heeft het wellicht zin om even te spreken. Het kan zijn dat je een tijdje moet wachten als er koffie gehaald wordt of als iemand anders aan de beurt is!
 
 Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
