@@ -132,7 +132,7 @@ reviews:
         review_1: 1
         review_2: 1
         review_3: 1
-        review_4: 1
+        review_4: :bonus
         # review_5: 1
         # review_6: 1
 
