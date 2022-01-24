@@ -108,18 +108,15 @@ opdrachten:
         algorithms: 1
         sort: 1
         find_less: 1
-        big_o: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
+        big_o: 0
         mario_py: 1
         readability_py: 1
         worldcup: 1
-        dna: 1
+        dna: 0
         queue: 1
         cards: 1
         hangman-less: 1
-        adventure-steps: 1
+        adventure-steps: 0
 
 basisboek:
     show_progress: true
