@@ -136,8 +136,8 @@ reviews:
         review_2: 1
         review_3: 1
         review_4: 1
-        review_5: 1
-        review_6: 1
+        # review_5: 1
+        # review_6: 1
 
 retrospectives:
     show_progress: true
