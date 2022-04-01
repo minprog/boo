@@ -1,11 +1,11 @@
 name: hertentamen
 files:
     c:
-        - collatz.c
-        - makelaar.c
-        - morse.c
-        - korting.c
-        - alfa.c
+        - collatz.py
+        - makelaar.py
+        - morse.py
+        - korting.py
+        - alfa.py
 check:
     tool: check50
     slug: minprog/tentamen-checks/2021/tentamen8
