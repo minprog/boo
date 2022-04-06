@@ -25,10 +25,10 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 
 | onderdeel | telt mee  |  
 | --------- | --------- |
-| Module 1  | 1/7 deel  |
-| Module 2  | 1/7 deel  |
-| Module 3  | 1/7 deel  |
-| Module 4  | 1/7 deel (optioneel)  |
+| Module 1  | x         |
+| Module 2  | x         |
+| Module 3  | x         |
+| Module 4  | optioneel |
 
 - Standaard eindcijfer = totaal punten / 18 * 9 + 1
 - Alternatief eindcijfer = totaal punten inclusief module 4 / 24 * 9 + 1
