@@ -1,6 +1,6 @@
-# Tentamen
+# Hertentamen Basis Objectgeorienteerd Programmeren (INF4ALL)
 
-21 januari 2021  9:00–12:00
+21 januari 2021  9:00–12:00, online
 
 > Regels voor het tentamen:
 > 
