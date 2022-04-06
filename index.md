@@ -15,9 +15,8 @@ De docent is Martijn Stegeman. Hij geeft het vak vorm en verzorgt de organisatie
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle vijf de vrijdagse [bijeenkomsten](#bijeenkomsten) bijwoont
-3. de reflectieve vragen van het tentamen naar verwachting beantwoordt
-4. voor de programmeervragen van het tentamen overwegend werkende oplossingen implementeert
+2. alle vrijdagse [bijeenkomsten](#bijeenkomsten) bijwoont
+3. voor de programmeervragen van het tentamen overwegend werkende oplossingen implementeert
 
 
 ## Eindcijfer
@@ -26,18 +25,15 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 
 | onderdeel | telt mee  |  
 | --------- | --------- |
-| Module 0  | -         |
 | Module 1  | 1/7 deel  |
 | Module 2  | 1/7 deel  |
 | Module 3  | 1/7 deel  |
-| Module 4  | 1/7 deel  |
-| Module 5  | 1/7 deel  |
-| Module 6  | 1/7 deel  |
-| Module 7  | 1/7 deel  |
+| Module 4  | 1/7 deel (optioneel)  |
+
+- Standaard eindcijfer = totaal punten / 18 * 9 + 1
+- Alternatief eindcijfer = totaal punten inclusief module 4 / 24 * 9 + 1
 
 Je moet hoe dan ook aan alle bovenstaande [verwachtingen](#verwachtingen) voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docent. Dat betekent vooral dat je géén opdrachten kunt overslaan. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>).
-
-Er is ook een bonuslevel (module 8) met een bijzonder pittige opdracht die regelmatige begeleiding vereist. Deze module is uitsluitend bedoeld voor studenten die al veel ervaring hebben of gewoon zeer snel gaan, <u>en</u> daardoor flink vooruitlopen. De deadline van deze module is daarom ook gelijk aan die van module 7. Niettemin: dit is geen wedstrijdje.
 
 
 ## Werkwijze
@@ -93,9 +89,9 @@ De data:
 
 - vrijdag 3 september
 - vrijdag 1 oktober
-- vrijdag 29 oktober
-- vrijdag 26 november
-- vrijdag 24 december
+- vrijdag 29 oktober (afgelast)
+- vrijdag 26 november (afgelast)
+- vrijdag 24 december (afgelast)
 
 Het tentamen is ingepland op 21 januari 2022.
 
@@ -106,15 +102,10 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | module   | naam                   | deadline oplossing | deadline verbeterd |  
 | -------- | ---------------------- | ------------------ | ------------------ |
-| Module 0 | Scratch                | do 16 sep  12:59   | -                  |  
 | Module 1 | C                      | do 30 sep  12:59   | vr  1 okt  20:59   |  
-| Module 2 | Strings                | do 14 okt  12:59   | vr 29 okt  20:59   |  
-| Module 3 | Caesar                 | do 28 okt  12:59   | vr 29 okt  20:59   |  
-| Module 4 | Find                   | do 11 nov  12:59   | vr 26 nov  20:59   |  
-| Module 5 | Python                 | do 25 nov  12:59   | vr 26 nov  20:59   |  
-| Module 6 | Hangman                | do  9 dec  12:59   | vr 24 dec  20:59   |  
-| Module 7 | Adventure              | do 23 dec  12:59   | vr 24 dec  20:59   |  
-| Module 8 | Diagrammer (bonus)     | do 23 dec  12:59   | vr 24 dec  20:59   |  
+| Module 2 | Readability + Caesar   | do 28 okt  12:59   | vr 29 okt  20:59   |  
+| Module 3 | Find + DNA             | do 25 nov  12:59   | vr 26 nov  20:59   |  
+| Module 4 | Hangman + Adventure    | do 23 dec  12:59   | vr 24 dec  20:59   |  
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
@@ -137,7 +128,16 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
 
-Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk.
+Voor module 4 worden bij volledige uitwerking altijd 6 punten toegekend.
+
+### Beoordeling tentamens
+
+Voor het tentamen krijg je 5 programmeeropdrachtjes die je zelfstandig moet uitwerken. Over het algemeen krijg je geen code-raamwerk aangeleverd. Om het tentamen te halen moet je voldoende opdrachten werkend maken, exact volgens de voorbeelden bij de opgaven, waarbij je gebruik moet maken van voldoende complexe combinaties van elementaire programmeerstructuren. Gebruik je Python, dan ben je enigszins in het nadeel omdat daar meer shortcuts ingebouwd zitten. Het "hardcoden" van oplossingen is niet voldoende, de oplossingen moeten algemeen zijn.
+
+- [Opgaven tentamen](/tentamen/tentamen)
+- [Opgaven hertentamen](/tentamen/hertentamen)
+
+De beoordeling is "gehaald" of "niet gehaald".
 
 
 ## Samenwerken
