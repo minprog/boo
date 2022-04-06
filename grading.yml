@@ -159,3 +159,4 @@ tentamen:
     required: true
     submits:
         tentamen: 1
+        hertentamen: 1
