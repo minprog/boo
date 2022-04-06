@@ -1,4 +1,4 @@
-# Hertentamen Basis Objectgeorienteerd Programmeren (INF4ALL)
+# Tentamen Basis Objectgeorienteerd Programmeren (INF4ALL)
 
 21 januari 2021  9:00–12:00, online
 
